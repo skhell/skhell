@@ -24,14 +24,14 @@ Troubleshoot and manage networks end-to-end without leaving your editor.
 
 ### Skills & technologies
 
-**Languages:** C, Rust, sometimes GO, TypeScript, JavaScript, Python  
-**Frameworks & Runtimes:** Node.js, Django, Astro, Bootstrap  
-**Automation & IaC:** Ansible, Terraform, Bash, Airflow, NetBox  
-**Observability & Testing:** Zabbix, Grafana, Elasticsearch, InfluxDB, ntop, K6  
-**Data & Platforms:** Percona (MySQL), Redis, Hadoop, Spark  
-**Servers & Proxies:** NGINX, Apache, Tomcat  
-**Tools & Virtualization:** Git, Docker, Proxmox, VMware, OpenNebula, OpenStack  
+**Languages:** C, Rust, sometimes GO, TypeScript, JavaScript, Python
+**Frameworks & Runtimes:** Node.js, Django, Astro, Bootstrap
+**Automation & IaC:** Ansible, Terraform, Bash, Airflow, NetBox
+**Observability & Testing:** Zabbix, Grafana, Elasticsearch, InfluxDB, ntop, K6 
+**Data & Platforms:** Percona (MySQL), Redis, Hadoop, Spark
+**Servers & Proxies:** NGINX, Apache, Tomcat
+**Tools & Virtualization:** Git, Docker, Proxmox, VMware, OpenNebula, OpenStack
 **Hyperscalers:** Cloudflare, Azure, AWS, GCP, OCI, IBM, Alibaba, Tencent
 **Public Cloud:** DigitalOcean, Leaseweb
-**Security:** OpenVAS, Passbolt, SonarQube 
+**Security:** OpenVAS, Passbolt, SonarQube
 **Operating Systems:** Debian, RHEL, FreeBSD, macOS
